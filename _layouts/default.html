@@ -18,9 +18,34 @@
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <!-- Posts -->
-        <!-- about -->
-        <!-- Social -->
+        <ul>
+          <p class="header"><a href="{{ site.url }}">Home</a></p>
+        </ul>
+        <ul>
+          <p class="header"><a href="{{ site.url }}/about">About</a></p>
+        </ul>
+        <ul class="social-media-list">
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+          {% if site.kaggle_username %}
+          <li>
+            {% include icon-kaggle.html username=site.kaggle_username %}
+          </li>
+          {% endif %}
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
+        </ul>
       </header>
 
       <section>
