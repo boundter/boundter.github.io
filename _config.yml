@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -14,20 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-=======
->>>>>>> 474060ff0736b1d1edbf8da57f59ca927a21593c
 title: "Erik Teichmann"
 email: kontakt.teichmann@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  This blog is mainly about Machine Learning, Math and Physics.
+description: Machine Learning, Math and Physics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boundter
 github_username:  boundter
 
+
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-dinky
 gems:
   - jekyll-feed
 exclude:
