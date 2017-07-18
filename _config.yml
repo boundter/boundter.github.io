@@ -1,1 +1,17 @@
-theme: jekyll-theme-tactile
+title: "Erik Teichmann"
+email: kontakt.teichmann@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This blog is mainly about Machine Learning, Math and Physics.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: boundter
+github_username:  boundter
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
