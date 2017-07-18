@@ -271,6 +271,7 @@ header li {
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
 
+  /*
 	background: #AF0011;
 	background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
@@ -284,7 +285,7 @@ header li {
 
 	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
 	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
-
+  */
 }
 
 header li:hover {
@@ -419,5 +420,18 @@ footer {
     padding:0.4in;
     font-size:12pt;
     color:#444;
+  }
+}
+
+/**
+ * Icons
+ */
+.icon > svg {
+  display: inline-block;
+  vertical-align: middle;
+  
+
+  path {
+    fill: #828282;
   }
 }
