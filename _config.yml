@@ -24,7 +24,11 @@ github_username:  boundter
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: jekyll-theme-dinky
+=======
+theme: jekyll-theme-cayman
+>>>>>>> a30d3fb209859c4b74e9fd7551e37164d890b444
 gems:
   - jekyll-feed
 exclude:
