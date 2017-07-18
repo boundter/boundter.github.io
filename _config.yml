@@ -13,22 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: "Erik Teichmann"
 email: kontakt.teichmann@gmail.com
 description: Machine Learning, Math and Physics
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boundter
 github_username:  boundter
 
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 theme: jekyll-theme-dinky
-=======
-theme: jekyll-theme-cayman
->>>>>>> a30d3fb209859c4b74e9fd7551e37164d890b444
 gems:
   - jekyll-feed
 exclude:
