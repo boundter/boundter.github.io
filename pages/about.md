@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
-My name is Erik and in this blog I want to share stuff about my favorite subjects. Those include Machine Learning, Math, and Physics, not necessarily in this order.
+Hello, my is Erik. On this webpage I want to share interesting stuff, as well as
+my projects. This typically include Machine Learning, Programming, Math, and
+Physics.
 
-Currently I am doing my Master in Physics at the University of Potsdam. Since my Bachelor I was aways interested in nonlinear dynamics (formerly called chaos theory) and this is where I wrote my Bachelor Thesis and where I am now writing my Master Thesis.
+Currently I am in a PhD program in the Theoretical Physics Department at the
+University of Potsdam. The theme of my Bachelor's and Master's Thesis were
+complex systems. Specifically the synchronization behavior of coupled units
+(for example neurons) under the influence of noise or in small networks of
+units. The current work is financed by the DFG in the IRTG 1740.
