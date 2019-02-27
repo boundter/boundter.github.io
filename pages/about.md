@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hello, my is Erik. On this webpage I want to share interesting stuff, as well as
-my projects. This typicallys include Machine Learning, Programming, Math, and
+my projects. This typically includes Machine Learning, Programming, Math, and
 Physics.
 
 Currently I am in a PhD program in the Theoretical Physics Department at the
