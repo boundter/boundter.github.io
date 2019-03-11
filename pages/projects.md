@@ -4,11 +4,11 @@ title: Projects
 permalink: /projects
 ---
 
-## [EClass (WIP)](https://github.com/boundter/e_class)
+## [G(erman)EClass (WIP)](https://github.com/boundter/geclass)
 
-The EClass is a centralized interface for the evaluation of physics labs. It is
+The G(erman)EClass is a centralized interface for the evaluation of physics labs. It is
 modeled after the [Colorado EClass](https://jila.colorado.edu/lewandowski/research/e-class-colorado-learning-attitudes-about-science-survey-experimental-physics).
-Lab instructors can register with the EClass and gain access to a questionnaire
+Lab instructors can register with the GEClass and gain access to a questionnaire
 for their students. This questionnaire measures their understanding of
 experimental physics before and after the lab, to give the instructors a measure
 of teaching success.
